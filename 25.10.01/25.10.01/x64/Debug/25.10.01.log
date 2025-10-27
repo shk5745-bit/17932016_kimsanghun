@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Cju\Documents\GitHub\programming2025clas\25.10.01\25.10.01\main.cpp(13,23): error C2065: 'name': 선언되지 않은 식별자입니다.
+C:\Users\Cju\Documents\GitHub\programming2025clas\25.10.01\25.10.01\main.cpp(13,30): error C2065: 'student_id': 선언되지 않은 식별자입니다.
+C:\Users\Cju\Documents\GitHub\programming2025clas\25.10.01\25.10.01\main.cpp(13,43): error C2065: 'height': 선언되지 않은 식별자입니다.
+C:\Users\Cju\Documents\GitHub\programming2025clas\25.10.01\25.10.01\main.cpp(13,52): error C2065: 'weight': 선언되지 않은 식별자입니다.
